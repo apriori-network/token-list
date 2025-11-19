@@ -4,7 +4,7 @@
     "keywords": [
         "monad mainnet"
     ],
-    "timestamp": "2025-11-18T23:00:44.951330+00:00",
+    "timestamp": "2025-11-19T00:39:18.736837+00:00",
     "tokens": [
         {
             "chainId": 143,
@@ -45,6 +45,14 @@
             "symbol": "USDT0",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/USDT0/logo.svg"
+        },
+        {
+            "chainId": 143,
+            "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/WBTC/logo.svg"
         },
         {
             "chainId": 143,
@@ -105,7 +113,7 @@
     ],
     "version": {
         "major": 1,
-        "minor": 7,
+        "minor": 8,
         "patch": 0
     }
 }
